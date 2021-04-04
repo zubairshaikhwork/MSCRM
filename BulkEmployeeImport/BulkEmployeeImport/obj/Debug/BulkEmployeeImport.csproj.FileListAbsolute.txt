@@ -1,0 +1,11 @@
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Plug In Code\BulkEmployeeImport\BulkEmployeeImport\bin\Debug\BulkEmployeeImport.dll.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Plug In Code\BulkEmployeeImport\BulkEmployeeImport\bin\Debug\BulkEmployeeImport.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Plug In Code\BulkEmployeeImport\BulkEmployeeImport\bin\Debug\BulkEmployeeImport.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Plug In Code\BulkEmployeeImport\BulkEmployeeImport\bin\Debug\Microsoft.Xrm.Client.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Plug In Code\BulkEmployeeImport\BulkEmployeeImport\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Plug In Code\BulkEmployeeImport\BulkEmployeeImport\bin\Debug\Microsoft.Xrm.Sdk.Deployment.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Plug In Code\BulkEmployeeImport\BulkEmployeeImport\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Plug In Code\BulkEmployeeImport\BulkEmployeeImport\bin\Debug\Microsoft.Xrm.Sdk.Deployment.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Plug In Code\BulkEmployeeImport\BulkEmployeeImport\obj\Debug\BulkEmployeeImport.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Plug In Code\BulkEmployeeImport\BulkEmployeeImport\obj\Debug\BulkEmployeeImport.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Plug In Code\BulkEmployeeImport\BulkEmployeeImport\obj\Debug\BulkEmployeeImport.csprojResolveAssemblyReference.cache

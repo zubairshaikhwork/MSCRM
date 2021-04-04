@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/NewWCFForBulkEmp" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/NewWCFForBulkEmp" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:complexType name="ArrayOfaccount">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="account" nillable="true" type="tns:account" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfaccount" nillable="true" type="tns:ArrayOfaccount" />
+  <xs:complexType name="account">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Address" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Designation" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Emailid" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Empid" type="xs:int" />
+      <xs:element minOccurs="0" name="Firstname" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Lastname" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Mobilenumber" type="xs:int" />
+      <xs:element minOccurs="0" name="Salary" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Technology" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="account" nillable="true" type="tns:account" />
+</xs:schema>
